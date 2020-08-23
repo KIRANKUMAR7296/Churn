@@ -13,7 +13,7 @@ Customer Churn Prediction
 
 * A Company should determine the Customers more at Risk and take **Preventive Measures.**
 
-# Data
+# Data Set : Kaggle [Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn)
 
 * Each Row Represents a Customer. 
 

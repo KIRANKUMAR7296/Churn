@@ -1,7 +1,7 @@
 # Churn-Prediction
 Customer Churn Prediction
 
-# Telco Customer Churn Prediction
+# Telco Customer Churn Prediction 👦🏻👧🏻🧑🏻👨🏻🏃🏻‍♂️🏃🏻‍♀️
 
 <table><tr><td><img src = "CC.png" width = 518 height = 300 align></img></td></tr></table>
 

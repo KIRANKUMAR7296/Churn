@@ -1,4 +1,4 @@
-# Churn-Prediction
+# Churn Prediction
 Customer Churn Prediction
 
 # Telco Customer Churn Prediction 👦🏻👧🏻🧑🏻👨🏻🏃🏻‍♂️🏃🏻‍♀️
